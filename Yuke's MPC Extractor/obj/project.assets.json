@@ -1,0 +1,101 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "xMcacutt.Binft/1.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/BinaryFileTools.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/BinaryFileTools.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "xMcacutt.Binft/1.0.3": {
+      "sha512": "H3nfeBys0vpsJfizl8GssKF3wF2NUIak3JXgfCzgpbPEeHP5xgLzAy7jKbWtaHXpBjUHCu379GqlCNbzfI3Lhg==",
+      "type": "package",
+      "path": "xmcacutt.binft/1.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "bnfticon.png",
+        "lib/net7.0/BinaryFileTools.dll",
+        "nuget README.md",
+        "xmcacutt.binft.1.0.3.nupkg.sha512",
+        "xmcacutt.binft.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "xMcacutt.Binft >= 1.0.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\Yuke's MPC Extractor\\Yuke's MPC Extractor\\Yuke's MPC Extractor.csproj",
+      "projectName": "Yuke's MPC Extractor",
+      "projectPath": "C:\\Users\\admin\\source\\repos\\Yuke's MPC Extractor\\Yuke's MPC Extractor\\Yuke's MPC Extractor.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\admin\\source\\repos\\Yuke's MPC Extractor\\Yuke's MPC Extractor\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "xMcacutt.Binft": {
+            "target": "Package",
+            "version": "[1.0.3, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

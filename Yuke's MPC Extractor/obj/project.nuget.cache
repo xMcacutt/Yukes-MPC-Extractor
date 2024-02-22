@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ElPP2YCUXBCqPLRcRa1Lrw8oiIZpFkrfcWrcAGN9D1tu1tmctzt+zPjtGOsTk4Q3FOsgTVko49ZZXzb6PodiFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\Yuke's MPC Extractor\\Yuke's MPC Extractor\\Yuke's MPC Extractor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\xmcacutt.binft\\1.0.3\\xmcacutt.binft.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Yuke's MPC Extractor/1.0.0": {
+        "dependencies": {
+          "xMcacutt.Binft": "1.0.3"
+        },
+        "runtime": {
+          "Yuke's MPC Extractor.dll": {}
+        }
+      },
+      "xMcacutt.Binft/1.0.3": {
+        "runtime": {
+          "lib/net7.0/BinaryFileTools.dll": {
+            "assemblyVersion": "1.0.3.0",
+            "fileVersion": "1.0.3.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yuke's MPC Extractor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "xMcacutt.Binft/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-H3nfeBys0vpsJfizl8GssKF3wF2NUIak3JXgfCzgpbPEeHP5xgLzAy7jKbWtaHXpBjUHCu379GqlCNbzfI3Lhg==",
+      "path": "xmcacutt.binft/1.0.3",
+      "hashPath": "xmcacutt.binft.1.0.3.nupkg.sha512"
+    }
+  }
+}

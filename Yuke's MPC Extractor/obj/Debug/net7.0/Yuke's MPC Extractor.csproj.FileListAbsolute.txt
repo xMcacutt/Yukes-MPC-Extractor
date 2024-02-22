@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\Yuke's MPC Extractor\Yuke's MPC Extractor\bin\Debug\net7.0\Yuke's MPC Extractor.exe
+C:\Users\admin\source\repos\Yuke's MPC Extractor\Yuke's MPC Extractor\bin\Debug\net7.0\Yuke's MPC Extractor.deps.json
+C:\Users\admin\source\repos\Yuke's MPC Extractor\Yuke's MPC Extractor\bin\Debug\net7.0\Yuke's MPC Extractor.runtimeconfig.json
+C:\Users\admin\source\repos\Yuke's MPC Extractor\Yuke's MPC Extractor\bin\Debug\net7.0\Yuke's MPC Extractor.dll
+C:\Users\admin\source\repos\Yuke's MPC Extractor\Yuke's MPC Extractor\bin\Debug\net7.0\Yuke's MPC Extractor.pdb
+C:\Users\admin\source\repos\Yuke's MPC Extractor\Yuke's MPC Extractor\obj\Debug\net7.0\Yuke's MPC Extractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Yuke's MPC Extractor\Yuke's MPC Extractor\obj\Debug\net7.0\Yuke's MPC Extractor.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Yuke's MPC Extractor\Yuke's MPC Extractor\obj\Debug\net7.0\Yuke's MPC Extractor.AssemblyInfo.cs
+C:\Users\admin\source\repos\Yuke's MPC Extractor\Yuke's MPC Extractor\obj\Debug\net7.0\Yuke's MPC Extractor.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Yuke's MPC Extractor\Yuke's MPC Extractor\obj\Debug\net7.0\Yuke's MPC Extractor.dll
+C:\Users\admin\source\repos\Yuke's MPC Extractor\Yuke's MPC Extractor\obj\Debug\net7.0\refint\Yuke's MPC Extractor.dll
+C:\Users\admin\source\repos\Yuke's MPC Extractor\Yuke's MPC Extractor\obj\Debug\net7.0\Yuke's MPC Extractor.pdb
+C:\Users\admin\source\repos\Yuke's MPC Extractor\Yuke's MPC Extractor\obj\Debug\net7.0\Yuke's MPC Extractor.genruntimeconfig.cache
+C:\Users\admin\source\repos\Yuke's MPC Extractor\Yuke's MPC Extractor\obj\Debug\net7.0\ref\Yuke's MPC Extractor.dll
+C:\Users\admin\source\repos\Yuke's MPC Extractor\Yuke's MPC Extractor\bin\Debug\net7.0\BinaryFileTools.dll
+C:\Users\admin\source\repos\Yuke's MPC Extractor\Yuke's MPC Extractor\obj\Debug\net7.0\Yuke's MPC Extractor.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Yuke's MPC Extractor\Yuke's MPC Extractor\obj\Debug\net7.0\Yuke's MPC Extractor.csproj.CopyComplete
